@@ -11,7 +11,7 @@ In simple words:
 ---
 ## 🔄 How Virtualization Works (Step-by-Step)
 <p align="center">
-  <img src="images/virtualization.png" width="500">
+  <img src="../images/virtualization.png" width="500">
 </p>
 
 # 🏗️ AWS Virtualization Architecture (Proper Sequence)
