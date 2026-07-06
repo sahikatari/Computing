@@ -1,6 +1,6 @@
 # DEPLOYMENT MODEL
 
-The public cloud delivers infrastructure and services over the internet to the general public.Cloud computing can be categorized based on how cloud services are deployed and managed. The three main deployment models are:
+Cloud computing can be categorized based on how cloud services are deployed and managed. The deployment models are:
 
 - 🌍 Public Cloud
 - 🔒 Private Cloud
