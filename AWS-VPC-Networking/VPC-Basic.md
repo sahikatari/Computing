@@ -12,8 +12,6 @@
 - IPv4 & IPv6
 - VPC Components
 - VPC Limits
-- Best Practices
-- Interview Questions
 - Summary
 
 ---
